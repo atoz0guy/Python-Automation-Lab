@@ -1,0 +1,6 @@
+Why this helps you for the Internship:
+Standardized IDs: By asking for a "Control ID" (like AC-1), you're showing that you know frameworks like NIST or SOC2. This is exactly what a CISO wants to see.
+
+Dictionary Usage: Using levels.get() is a "cleaner" way to write code than a bunch of if statements. It shows your Python skills are moving past "beginner" level.
+
+The Output: It creates a security_audit_log.txt. You can upload this text file to your Cybersecurity-Technical-Portfolio to prove you know how to document security findings.
