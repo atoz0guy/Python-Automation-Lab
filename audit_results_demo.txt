@@ -1,0 +1,2 @@
+[2026-05-11 14:00:00] [SCORE: 25] [RATING: CRITICAL] [ID: AC-2] - Admin account found without MFA enabled.
+[2026-05-11 14:15:00] [SCORE: 6] [RATING: LOW] [ID: PE-3] - Server room door left propped open for 5 minutes.
